@@ -9,7 +9,7 @@ Um gerador de senhas aleatórias que permite ao usuário definir o tamanho da se
 
 ## 📸 Capturas de Tela  
 
-![GIF Gerador de Senhas](https://github.com/DevLenon01/Gerador-de-Senhas/main/Gerador-de-Senhas-Git2.gif)
+<img src="https://github.com/DevLenon01/Gerador-de-Senhas/main/Gerador-de-Senhas-Git2.gif" alt="Texto Alternativo" width="300">
 
 ## 🎯 Funcionalidades  
 ✅ Gera senhas seguras de diferentes tamanhos  
