@@ -1,21 +1,21 @@
-# Nome do Projeto 🚀
+# Gerador de Senhas Seguras 🚀
 
-Descrição breve do projeto.
+Um gerador de senhas aleatórias que permite ao usuário definir o tamanho da senha e se deseja incluir números, letras maiúsculas, minúsculas e símbolos.
 
 ## 🛠 Tecnologias  
-- HTML  
-- CSS  
-- JavaScript  
+- HTML → Estrutura da página
+- CSS → Estilização
+- JavaScript → Lógica do gerador
 
 ## 📸 Capturas de Tela  
 ![Imagem do projeto](link-da-imagem)  
 
 ## 🎯 Funcionalidades  
-✅ Funcionalidade 1  
-✅ Funcionalidade 2  
-✅ Funcionalidade 3  
+✅ Gera senhas seguras de diferentes tamanhos
+✅ Permite escolher se a senha terá números, letras e símbolos
+✅ Copia a senha gerada para a área de transferência 
 
 ## 📂 Como rodar o projeto?  
-```bash
-https://github.com/DevLenon01/Dev-Lenon-Portifolio
-cd Portifólio Dev Lenon
+
+git clone https://github.com/DevLenon01/gerador-de-senhas.git
+cd gerador-de-senhas
