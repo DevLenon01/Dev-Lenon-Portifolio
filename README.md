@@ -17,5 +17,5 @@ Descrição breve do projeto.
 
 ## 📂 Como rodar o projeto?  
 ```bash
-git clone https://github.com/seu-usuario/nome-do-projeto.git
-cd nome-do-projeto
+https://github.com/DevLenon01/Dev-Lenon-Portifolio
+cd Portifólio Dev Lenon
