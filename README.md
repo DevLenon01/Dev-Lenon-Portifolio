@@ -9,10 +9,7 @@ Um gerador de senhas aleatórias que permite ao usuário definir o tamanho da se
 
 ## 📸 Capturas de Tela  
 
-![Texto Alternativo](https://blogs.mathworks.com/matlab/files/2024/02/animatingFlickbook_1.gif)
-
-![Texto Alternativo](C:\Users\aluno\github\Gerador-de-Senhas-Git2.gif)
-
+![Texto Alternativo](https://github.com/DevLenon01/Gerador-de-Senhas/blob/main/Gerador-de-Senhas-Git2.gif?raw=true)
 
 
 ## 🎯 Funcionalidades  
