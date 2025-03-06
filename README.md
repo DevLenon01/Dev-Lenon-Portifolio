@@ -8,7 +8,9 @@ Um gerador de senhas aleatórias que permite ao usuário definir o tamanho da se
 - JavaScript → Lógica do gerador
 
 ## 📸 Capturas de Tela  
-![Imagem do projeto](link-da-imagem)  
+![Gerador de Senhas em ação](https://raw.githubusercontent.com/DevLenon01/Dev-Lenon-Portifolio/main/gerador-de-senhas.gif)
+
+
 
 ## 🎯 Funcionalidades  
 ✅ Gera senhas seguras de diferentes tamanhos
