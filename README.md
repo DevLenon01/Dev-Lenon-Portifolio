@@ -18,8 +18,3 @@ https://github.com/DevLenon01/Gerador-de-Senhas/blob/main/Gerador-de-Senhas-Git%
 ✅ Gera senhas seguras de diferentes tamanhos
 ✅ Permite escolher se a senha terá números, letras e símbolos
 ✅ Copia a senha gerada para a área de transferência 
-
-## 📂 Como rodar o projeto?  
-
-Git-Clone: https://github.com/DevLenon01/Gerador-De-Senhas.git <br>
-cd gerador-de-senhas
