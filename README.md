@@ -13,6 +13,7 @@ Um gerador de senhas aleatórias que permite ao usuário definir o tamanho da se
 
 
 ## 🎯 Funcionalidades  
-✅ Gera senhas seguras de diferentes tamanhos.
+
+✅ Gera senhas seguras de diferentes tamanhos. <br>
 ✅ Permite escolher se a senha terá números, letras e símbolos.  
 ✅ Copia a senha gerada para a área de transferência.
