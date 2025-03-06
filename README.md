@@ -19,5 +19,5 @@ Um gerador de senhas aleatórias que permite ao usuário definir o tamanho da se
 
 ## 📂 Como rodar o projeto?  
 
-git clone https://github.com/DevLenon01/gerador-de-senhas.git
+git clone https://github.com/DevLenon01/Gerador-De-Senhas.git
 cd gerador-de-senhas
