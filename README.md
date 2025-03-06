@@ -11,6 +11,9 @@ Um gerador de senhas aleatórias que permite ao usuário definir o tamanho da se
 
 ![Texto Alternativo](C:\Users\aluno\github\Gerador-de-Senhas-Git2.gif)
 
+![Texto Alternativo](C:/Users/aluno/github/Gerador-de-Senhas-Git2.gif)
+
+
 
 ## 🎯 Funcionalidades  
 ✅ Gera senhas seguras de diferentes tamanhos  
